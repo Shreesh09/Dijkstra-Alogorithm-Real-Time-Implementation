@@ -3,4 +3,4 @@
 1) Simple Java app to showcase Dijkstra's Algorithm
 2) Works on both Directed and Undirected Graphs
 
-![](https://github.com/Shreesh09/Dijkstra-Alogorithm-Real-Time-Implementation/blob/main/2023-06-04_14-09-22_AdobeExpress%20(1).gif)
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWMyYjRmYmNhOTllMjRjNDllNTgzYThjYTUyN2U0ODU0N2Q3Y2NkOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/93PaWWht7umo3d9OPY/giphy.gif)
