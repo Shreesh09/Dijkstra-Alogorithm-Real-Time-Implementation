@@ -30,9 +30,6 @@ public class StartButton extends GUIbutton{
         int [] ypoints  = {rect.y, rect.y + rect.h/2, rect.y + rect.h};
         int nPoints =3;
         g2.fillPolygon(xpoints, ypoints, nPoints);
-        // graphics.fillRect(rect.x, rect.y, rect.w, rect.h);
-        // graphics.setColor(Color.black);
-        // graphics.drawString(">" , rect.x + 5, this.rect.y + rect.h/2);
     }
 
     @Override
